@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Memorie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Memorie_jar</output-path>
+    <root id="archive" name="Memorie.jar">
+      <element id="module-output" name="Memorie" />
+      <element id="module-source" name="Memorie" />
+    </root>
+  </artifact>
+</component>
